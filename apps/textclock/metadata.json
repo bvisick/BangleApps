@@ -1,0 +1,12 @@
+{ "id": "textclock",
+  "name": "Text Clock",
+  "shortName":"Text Clock",
+  "icon": "app-js.png",
+  "version":"0.01",
+  "description": "Text clock that shows time to the nearest five minutes.",
+  "tags": "",
+  "storage": [
+    {"name":"textclock","url":"app.js"},
+    {"name":"textclock","url":"app-icon.js","evaluate":true}
+  ]
+}
